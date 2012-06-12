@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<items use="exercise,dance" version="1">
+	<itemgroup type="exercise">
+		<item description="Go for a run for {0} minutes" weight="5" min="1" max="5" />
+		<item description="Do {0} pushups"	weight="2" min="1" max="20" />
+		<item description="Do {0} situps"	weight="5" min="1" max="50" />
+		<item description="Do {0} squats"	weight="1" min="1" max="20" />
+	</itemgroup>
+	<itemgroup type="dance">
+		<item description="Do the Dougie!" />
+		<item description="Do the running man!" />
+	</itemgroup>
+</items>

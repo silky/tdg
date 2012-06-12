@@ -1,0 +1,24 @@
+TDD, by Noon Silk, https://github.com/silky
+======================================================================
+About
+	For each failed NUnit test, instructions will be displayed. In particular,
+	the default configuration will encourage you to do some exercise, or
+	learn hip-hop dancing.
+
+Installation
+	As per installing an NUnit addin, please the downloaded files
+	into "nunit/bin/addins" folder (make it, if it doesn't exist). 
+	The current version was developed against NUnit NUnit-2.6.0.12051.
+	
+	You can grab the source from github: https://github.com/silky/tdg and
+	build a new version for whatever version of NUnit you may have (you'll
+	just need to reference the appropriate dll).
+
+Usage
+	Once installed, it will work immediately. To disable it, just
+	rename the ".dll" to ".temp" (as NUnit looks for addins with
+	".dll" extension), or just simply delete it.
+
+Bugs
+	Report them on the github address above website.
+======================================================================
